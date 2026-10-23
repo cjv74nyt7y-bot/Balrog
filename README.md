@@ -1,5 +1,7 @@
 # Flee the Balrog
 
+> **Roblox version:** see [`roblox/`](roblox/README.md). Open `roblox/FleeTheBalrog.rbxlx` in Roblox Studio and press Play.
+
 A touch-friendly arcade game for iPad (also works on phones and desktop browsers).
 Climb out of the deep while dodging embers, boulders, icy drips, crystal shards, bats and the fire whip.
 
